@@ -498,5 +498,5 @@ export default new Router({
       } 
     },
   	mode: 'history',
-    base: '/vuerouterdemo/dist'
+    base: '/vuerouterdemo/dist/'
 })
