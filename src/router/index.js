@@ -497,6 +497,5 @@ export default new Router({
         return position
       } 
     },
-  	mode: 'history',
-    base: '/vue-router'
+  	mode: 'history'
 })
