@@ -1,4 +1,4 @@
-# wxcoupon
+# vue-router demo
 
 > A Vue.js project
 
